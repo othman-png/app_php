@@ -1,0 +1,39 @@
+h1 {
+	color: red;
+	background: rgba(255);
+	align-content: center;
+	text-align:center;
+
+}
+
+p {
+	
+}
+
+body {
+	background-image: url("https://img-0.journaldunet.com/DPAQb5w38KoXNDq63yCT562GwE4=/1280x/smart/18fef1b31ea9424a83d70ed7f7f02fac/ccmcms-jdn/11048405.jpg");
+	opacity: 10;
+	color: green;
+}
+
+ 
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: not-allowed;
+}
+
+div {
+  border: 2px solid;
+  padding: 20px; 
+  width: 300px;
+  resize: horizontal;
+  overflow: auto;
+  color: red;
+}
